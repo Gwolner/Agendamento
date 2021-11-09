@@ -4,7 +4,7 @@ Sistema proposto para a disciplina de Projetos de Desenvolvimento de Sistema Cor
 
 ## Projeto inicial precisa de:
 
-- Ser Java Maven;
+- Java Maven;
 - Conectar ao banco;
 - ?????
 
